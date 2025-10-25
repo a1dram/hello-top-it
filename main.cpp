@@ -1,7 +1,5 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, TOP-IT\n" << std::endl;
-    std::cout << "hahahaha";
-    return 0;
+    std::cout << "Greetings, TOP-IT\n" << std::endl;
 }
